@@ -9,6 +9,16 @@
 inspired by the instructables guide on building a cardboard combination padlock (`https://www.instructables.com/How-to-Build-a-Cardboard-Combination-Padlock/`), this project reimagines a papercraft mechanism into a fully functional 3D CAD assembly. instead of cutting corrugated cardboard with a craft knife, every single gear, disc and locking pin is engineered in onshape. the lock operates using a series of rotating combination wheels with internal gates, a central shaft and a locking lever that blocks the shackle until all correct digits align. designing this required calculating precise mechanical clearances so the printed parts rotate smoothly rather than fusing together into an expensive plastic paperweight.
 
 ## bill of materials (BOM)
+|Parts                    |Quantity|Pieces in a pack  |Cost |Cost w/ shipping|
+|-------------------------|--------|------------------|-----|----------------|
+|Hinge                    |1       |4                 |3.11 |3.58            |
+|Super Glue               |1       |1                 |3.15 |3.15            |
+|Sandpaper(220 Grit)      |1       |4                 |2.96 |2.96            |
+|Isopropyl Alcohol(IPA)   |1       |1                 |1.76 |1.76            |
+|5mm Sticks               |1       |50                |2.54 |2.54            |
+|3D Print Parts(2kg spool)|1       |27 prints in total|12.64|16              |
+|                         |        |                  |     |                |
+|                         |        |                  |     |29.99           |
 
 
 ## visual showcase
