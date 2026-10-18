@@ -26,10 +26,10 @@ inspired by the instructables guide on building a cardboard combination padlock 
 ![3d assembly render](images/render.png)
 *(a clean render of the combination lock looking completely functional until you try to turn the dials)*
 
-![exploded view](images/exploded_view.png)
+![top view](images/top_view.png)
 *(an exploded view showing all the tiny internal wheels and pins i spent hours constraining)*
 
-![mechanism cross-section](images/mechanism.png)
+![side cross-section](images/side_view.png)
 *(cross-section view of the internal gates aligning perfectly with the locking lever)*
 
 *note: the combination is currently set to a secret code that i will probably forget immediately.*
